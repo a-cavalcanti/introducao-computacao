@@ -1,1 +1,1 @@
-descrição do sistema
+demonstração do git em sala de aula
